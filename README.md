@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin Albatov</h1>  
-- 🔭 I’m currently working on [KQuiz](https://github.com/AlbatovK/KQuiz)  
+- 🔭 I’m currently working on <a href="https://github.com/AlbatovK/KQuiz">KQuiz</a>
   
 - 🌱 I’m currently learning **Android platform, Kotlin programming language and Spring Boot framework**  
   
