@@ -1,6 +1,6 @@
 ## Hi, I'm Albatov Konstantin from Omsk, Russia
 
-- 🔭 I’m currently working on [Dira](https://github.com/AlbatovK/Dira) android app
+- 🔭 I’m currently working on [Type'n'play](https://github.com/AlbatovK/Type-n-play) mutiplayer game
 - 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
 - 🔨 I've previously had an experience of building desktop apps with Python and Qt Framework and writing games with Pygame
 - 🏆 Future goals: Learn Spring Security and start to use Jetpack Compose
