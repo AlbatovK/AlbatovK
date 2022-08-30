@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Dira](https://github.com/AlbatovK/Dira) android app
 - 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
-- 🔨 I've previously had an experience of building desktop apps with Python and Qt Framework and writing games in C++ with SFML
+- 🔨 I've previously had an experience of building desktop apps with Python and Qt Framework and writing games with Pygame
 - 🏆 Future goals: Learn Spring Security and start to use Jetpack Compose
 - ⚡ Fact: Writing functions in Kotlin is fun but writing suspend functions is sus (unless you use flows)
 
