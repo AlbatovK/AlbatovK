@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on migrating [Forecast](https://github.com/AlbatovK/Forecast) to Clean Architecture and MVI pattern
 - 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
-- 🔨 I've previously had an experience of building desktop apps with Python and Qt Framework and writing games with Pygame
+- 🔨 I've previously had an experience of building desktop apps with PyQt Framework and writing games with Pygame
 - 🏆 Future goals: Learn Spring Security and start to use Jetpack Compose
 - ⚡ Fact: Writing functions in Kotlin is fun but writing suspend functions is sus (unless you use flows)
 
