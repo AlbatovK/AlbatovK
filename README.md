@@ -1,6 +1,6 @@
 ## Hi, I'm Albatov Konstantin from Omsk, Russia
 
-- 🔭 I’m currently working on migrating [Forecast](https://github.com/AlbatovK/Forecast) to Clean Architecture and MVI pattern
+- 🔭 I’m currently working on [Dira](https://github.com/AlbatovK/Dira) Android app
 - 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
 - 🔨 I've previously had an experience of building desktop apps with PyQt Framework and writing games with Pygame
 - 🏆 Future goals: Learn Spring Security and start to use Jetpack Compose
