@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img alt="AlbatovK | Portfolio" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=Jekyll&style=for-the-badge" />][vk]
+[<img alt="AlbatovK | Portfolio" src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=Jekyll&style=for-the-badge" />][website]
 [<img alt="AlbatovK | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
 [<img alt="AlbatovK | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />][vk]
 
