@@ -13,6 +13,8 @@
 [<img alt="AlbatovK | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
 [<img alt="AlbatovK | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />][vk]
 
+### For more information checkout my personal [portfolio website](https://albatovk.github.io)!
+
 [website]: https://albatovk.github.io
 [vk]: https://vk.com/stormthatsapproaching
 [telegram]: https://t.me/iatstiapbcii
