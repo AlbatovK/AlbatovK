@@ -1,4 +1,4 @@
-## Hi, I'm Albatov Konstantin from Omsk, Russia
+## Hi, I'm Albatov Konstantin from Moscow, Russia
 
 - 🔭 I’m currently working on [Dira](https://github.com/AlbatovK/Dira) Android app
 - 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
