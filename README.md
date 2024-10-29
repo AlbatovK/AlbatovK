@@ -1,11 +1,8 @@
 ## Hi, I'm Albatov Konstantin from Moscow, Russia
 
-- 🔭 I’m currently working on [Dira](https://github.com/AlbatovK/Dira) Android app
-- 🌱 I’m currently learning Kotlin programming language, Android platform and Spring Boot Framework
-- 🔨 I've previously had an experience of building desktop apps with PyQt Framework and writing games with Pygame
-- 🏆 Future goals: Learn Spring Security and start to use Jetpack Compose
+- 🌱 I’m currently learning and enhancing my skills in Kotlin programming language, Android platform and Spring Framework
+- 🔨 I've previously had an experience of building desktop apps with PyQt Framework, writing games with Pygame and developing native android apps with Java
 - ⚡ Fact: Writing functions in Kotlin is fun but writing suspend functions is sus (unless you use flows)
-
 
 ### Connect with me:
 
